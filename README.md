@@ -1,5 +1,5 @@
 # CTG
 ConstituencyTreeGenerator
 
-## How to Install?
+### How to Install?
 Download the 
