@@ -22,6 +22,6 @@ Built with Claude Sonnet 4, Gemini 2.5 Flash, and ChatGPT 4-o.
 2. Gemini (CustomTkinter + Pyinstaller)
   - https://g.co/gemini/share/222217251786 (The previous conversation history disappeared for unknown reason after exceeding the context window usage)
   - https://g.co/gemini/share/8ac3997ab544
-  - https://g.co/gemini/share/03e7365bece9 (Icon)
+  - https://g.co/gemini/share/03e7365bece9 (Icon not used)
 3. ChatGPT (Icon)
   - https://chatgpt.com/share/6841971b-3ad0-8012-9bea-6ba95790dcb9
