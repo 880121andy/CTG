@@ -13,4 +13,4 @@ Built with Claude Sonnet 4, Gemini 2.5 Flash, and ChatGPT 4-o.
 3. Show all syntactic categories in Penn Treebank.
 
 ### Code
-- The full source code can be found in the repo, named CTG.ipy
+- The full source code can be found in the repo, named CTG.ipynb
