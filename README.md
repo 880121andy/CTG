@@ -3,8 +3,8 @@ ConstituencyTreeGenerator.
 Built with Claude Sonnet 4, Gemini 2.5 Flash, and ChatGPT 4-o.
 
 ### How to use?
-1. Download the CTG.zip file in this Google Drive link: https://drive.google.com/file/d/1XwNaKKqIj0eE62zTQp7SLfzbzOiSKOY6/view?usp=sharing
-2. Unzip the file. (1.2GB)
+1. Download the CTG.zip file in this Google Drive link: https://drive.google.com/file/d/1XwNaKKqIj0eE62zTQp7SLfzbzOiSKOY6/view?usp=sharing (1.2GB)
+2. Unzip the file.
 3. Find and launch the ConstituencyTreeGenerator.exe file in dist/ConstituencyTreeGenerator folder.
 
 ### Functions
