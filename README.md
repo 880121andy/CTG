@@ -8,9 +8,9 @@ Built with Claude Sonnet 4, Gemini 2.5 Flash, and ChatGPT 4-o.
 3. Find and launch the ConstituencyTreeGenerator.exe file in dist/ConstituencyTreeGenerator folder.
 
 ### Functions
-1. Parse English sentence or phrase input and generate constituency tree diagram.
-2. Export tree diagram.
-3. Show all syntactic categories in Penn Treebank.
+1. Parse the input sentence and generate its constituency tree diagram.
+2. Save the resulting tree diagram as an image.
+3. Display all the syntactic categories in Stanza, along with their corresponding abbreviations and colors used in CTG.
 
 ### Code
 - The full source code can be found in the repo, named CTG.ipynb
