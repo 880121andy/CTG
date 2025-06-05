@@ -1,6 +1,6 @@
 # CTG
 ConstituencyTreeGenerator.  
-Built with Claude Sonnet 4, Gemini 2.5 Flash, and ChatGPT 4-o.
+Built with Claude Sonnet 4, Gemini 2.5 Flash, and ChatGPT-4o.
 
 ### How to use?
 1. Download the CTG.zip file in this Google Drive link: https://drive.google.com/file/d/1XwNaKKqIj0eE62zTQp7SLfzbzOiSKOY6/view?usp=sharing (1.2GB)
