@@ -1,5 +1,5 @@
 # CTG
-ConstituencyTreeGenerator\n
+ConstituencyTreeGenerator  
 Built with Claude Sonnet 4, Gemini 2.5 Flash, and ChatGPT 4-o.
 
 ### How to Install?
